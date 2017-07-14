@@ -1,0 +1,5 @@
+source https://api.nuget.org/v3/index.json
+
+nuget Newtonsoft.Json
+nuget FSharp.Core
+nuget FSharp.NET.Sdk
